@@ -9,8 +9,8 @@
 <h4 align="center">Su gran novedad radica en la poca cantidad de líneas de código utilizadas.</h4>
 <br>
 
-![screenshot](https://imgur.com/1oUWZuF)
-![screenshot](https://imgur.com/a/1kWV2Mo)
+![screenshot1](./public/images/screenshoot1.png)
+![screenshot2](./public/images/screenshoot2.png)
 
  <br> <br>
 ##  Realizado con express
