@@ -1,19 +1,19 @@
 <h1 align="center">
-  Carrusel de imagenes alternativo
+  Alternative image carousel
 </h1> 
 
-<h4 align="center">Presentación de un formato totalmente diferente a un carrusel de imágenes para el uso en páginas web.</h4>
+<h4 align="center">Presentation of a completely different format than an image carousel for use on web pages</h4>
 <br>
-<h4 align="center">Con el cual, a través de activar y mover el mouse de un lado para el otro, se va desplazar un conjunto de imágenes de izquierda a derecha, mostrando un efecto suave y agradable en la experiencia del el usuario.</h4>
+<h4 align="center">With it, by activating and moving the mouse from side to side, a set of images will be smoothly and pleasantly scrolled from left to right, enhancing the user experience</h4>
 <br>
-<h4 align="center">Su gran novedad radica en la poca cantidad de líneas de código utilizadas.</h4>
+<h4 align="center">Its great novelty lies in the small amount of code lines used</h4>
 <br>
 
 ![screenshot1](./public/images/screenshoot1.png)
 ![screenshot2](./public/images/screenshoot2.png)
 
  <br> <br>
-##  Realizado con express
+##  Developed with Express
   - <a href="https://www.npmjs.com/package/express">
     <img src="https://badge.fury.io/js/express.svg"
          alt="Gitter">
@@ -21,25 +21,25 @@
   
   <br>
 
-## Lenguajes utilizados
+## Technologies used
 
 - JavaScript (46%)
 - HTML (43%)
 - CSS (11%)
 
-## Palabras claves
+## Keywords
 
 - Front-end
-- Carrusel de imágenes
-- Alternativo
-- Página de inicio
+- Image carousel
+- Alternative
+- Home page
 
-## Cómo probar y utilizar este proyecto
+## Setup
 
-Para clonar localmente y poder ejecutar esta aplicación en su totalidad, necesitará de dos programas previamente instalados en su computadora, el primero es [Node.js](https://nodejs.org/en/download/) (que viene con  [npm](http://npmjs.com) incluido) y el segundo es [Git](https://git-scm.com).
+Translation: "To clone locally and be able to run this application in its entirety, you will need two programs previously installed on your computer. The first one is [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com) included) and the second one is [Git](https://git-scm.com).
 <br>
 <br>
-Una vez éstos temas resueltos, a continuacion se explica el paso a paso para realizar la clonacion propiamente dicha:
+Once these prerequisites are resolved, the following is a step-by-step explanation of how to perform the cloning process properly:
 
 ```bash
 # Clone this repository
@@ -58,8 +58,8 @@ $ npm start
 $ http://localhost:8080/
 ```
 
-> **Nota importante**
-> Si usted usa Linux Bash para Windows, le recomendamos que consulte la siguiente [guía](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/).
+> **Important**
+> If you are using Linux Bash for Windows, we recommend you refer to the following [guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/).
 
 
 
@@ -68,10 +68,10 @@ $ http://localhost:8080/
 ---
 
  
-## Autor
+## Author
 
 GitHub [@Alesanzz](https://github.com/Alesanzz)  
 
-## Licencia
+## License
 
 MIT
